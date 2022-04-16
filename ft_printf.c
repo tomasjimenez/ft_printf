@@ -6,7 +6,7 @@
 /*   By: tojimene <tojimene@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/04/15 11:15:23 by tojimene          #+#    #+#             */
-/*   Updated: 2022/04/15 21:58:10 by tojimene         ###   ########.fr       */
+/*   Updated: 2022/04/16 21:14:41 by tojimene         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -98,7 +98,7 @@ int	ft_printf(char const *str, ...)
 // 	//char c[]= "hola%d";
 // 	//printf("%d", ft_printf(c));
 // 	//char *d;
-// 	ft_printf("%s\n", "hola");
-// 	//printf("%s\n", "hola");
+// 	//ft_printf("%a\n", "hola");
+// 	printf("%a\n", "hola");
 // 	//printf("%p\n", &d);
 // }
